@@ -12,7 +12,7 @@
 - Process improvement
 
 **Project Management Tools**
-- MS Project
+- MS Project  [Project Plan](https://github.com/qadir0108/ITProjectManagement/tree/main/ProjectPlan)
 - https://www.clickup.com/
 - https://www.atlassian.com/software/jira
 - https://www.teamwork.com/
